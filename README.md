@@ -62,8 +62,6 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAvi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </a>
 
-<details>	
-  <br />
   <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10 ver.2004</li>
@@ -73,7 +71,6 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
             <li><b>Cleverly using Windows Terminal instead of Command Prompt 🤣</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
-</details>
 
 <a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
