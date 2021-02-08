@@ -62,13 +62,14 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAvi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </a>
 
+
   <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10 ver.2004</li>
-	    <li><b>Laptop: </b> ASUS VivoBook 14 X412DA (Ryzen 5)</li>
-  	    <li><b>Browser: </b> Chrome & Firefox</li>
-	    <li><b>Code Editor:</b> VSCode ❤, Snack Editor</li>
-            <li><b>Cleverly using Windows Terminal instead of Command Prompt 🤣</li>
+  	    <li><b>OS:</b>macOS Big Sur 11.1</li>
+	    <li><b>Laptop: </b> Macbook pro 2019</li>
+  	    <li><b>Browser: </b> Safari & Chrome</li>
+	    <li><b>Code Editor:</b> VSCode ❤, Xcode</li>
+            <li><b>Cleverly using macOS Terminal with node.js, python & git</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
 
