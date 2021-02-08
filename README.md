@@ -40,7 +40,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow me!?style=social)](https://twitter.com/Coder_Avi)
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/Coder_Avi?style=social)](https://twitter.com/Coder_Avi)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/setusteknow/) 
 [![GitHub iampawan](https://img.shields.io/github/followers/CoderAvi?label=follow me!&style=social)](https://github.com/CoderAvi)
