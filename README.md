@@ -6,7 +6,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> </p>
 
 <a href="https://twitter.com/Coder_Avi">
-  <img align="left" alt="Coder_Avi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Coder_Avi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/imthepk">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
