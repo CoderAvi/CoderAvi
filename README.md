@@ -4,6 +4,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> </p>
+[YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCk9NemgIV0TcGEtvrqU4kOA) 
 
 <a href="https://twitter.com/Coder_Avi">
   <img align="left" alt="Coder_Avi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -45,7 +46,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/setusteknow/) 
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![website](https://img.shields.io/badge/Portfolio-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
 
 **Languages and Tools:**  
@@ -72,14 +73,6 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
             <li><b>Cleverly using macOS Terminal with node.js, python & git</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
-
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
-
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
-</a>
 
 <div align="center">
 
