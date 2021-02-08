@@ -3,7 +3,7 @@
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> </p>
+
 ![](https://komarev.com/ghpvc/?username=SetuCoder&color=green)
 &nbsp; 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCk9NemgIV0TcGEtvrqU4kOA) 
