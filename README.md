@@ -43,7 +43,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/Coder_Avi?style=social)](https://twitter.com/Coder_Avi)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/setusteknow/) 
-[![GitHub iampawan](https://img.shields.io/github/followers/CoderAvi?label=follow me!&style=social)](https://github.com/CoderAvi)
+[![GitHub iampawan](https://img.shields.io/github/followers/CoderAvi?label=follow&style=social)](https://github.com/CoderAvi)
 [![website](https://img.shields.io/badge/Portfolio-coderavi.live-2648ff?style=flat-square&logo=google-chrome)](https://coderavi.live/)
 
 
