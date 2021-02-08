@@ -1,7 +1,7 @@
 
 ## Hola, I'm [Avinash Kumar!](https://coderavi.github.io) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> </p>
 
 <a href="https://twitter.com/Coder_Avi">
   <img align="left" alt="Coder_Avi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -35,7 +35,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 📫 How to reach me: [Twitter - @Coder_Avi](https://twitter.com/Coder_Avi) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
@@ -58,9 +58,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoderAvi&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAvi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </a>
-<a href="https://github.com/CoderAvi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderAvi&show_icons=true&theme=light&line_height=27" alt="CoderAvi's github stats"/>
-</a>
+
 <a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
