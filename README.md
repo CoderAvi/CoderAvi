@@ -64,7 +64,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10 ver.2004</li>
 	    <li><b>Laptop: </b> ASUS VivoBook 14 X412DA (Ryzen 5)</li>
