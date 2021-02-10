@@ -44,7 +44,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 [![Linkedin: imthepk](https://img.shields.io/badge/-coderavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coder-avi)](www.linkedin.com/in/coder-avi)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/setusteknow/) 
 [![GitHub iampawan](https://img.shields.io/github/followers/CoderAvi?label=follow&style=social)](https://github.com/CoderAvi)
-[![website](https://img.shields.io/badge/Portfolio-coderavi.live-2648ff?style=flat-square&logo=google-chrome)](https://coderavi.tech/)
+[![website](https://img.shields.io/badge/Portfolio-coderavi.tech-2648ff?style=flat-square&logo=google-chrome)](https://coderavi.tech/)
 
 
 **Languages and Tools:**  
