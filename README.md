@@ -7,7 +7,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://twitter.com/Coder_Avi">
   <img align="left" alt="Coder_Avi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepk">
+<a href="www.linkedin.com/in/coder-avi">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/iampawan">
