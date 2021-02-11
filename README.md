@@ -1,5 +1,5 @@
 
-## Hola, I'm [Avinash Kumar!](https://coderavi.github.io) 👋
+## Hola, I'm [Avinash Kumar!](https://github.com/CoderAvi) 👋
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 
 
