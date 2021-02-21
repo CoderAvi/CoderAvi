@@ -32,7 +32,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 
 - 🔭 I’m currently working on my own venture [Shopondoor](https://shopondoor.com/).
-- 🌱
+- 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/15208961/coderavi?tab=profile).
 - 🤔 I’m looking for help with Shopondoor Deployment work.
 - 💬 Ask me about Flutter or any tech related stuff.
