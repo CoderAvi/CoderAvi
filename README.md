@@ -19,7 +19,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://www.instagram.com/coder_avi/">
   <img align="left" alt="Coder Avi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/coderavinash/">
+<a href="">
   <img align="left" alt="Coder Avi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA">
