@@ -12,7 +12,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 </a>
 <a href="https://github.com/CoderAvi/">
   <img align="left" alt="Coder Avi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-
+</a>
 <a href="https://stackoverflow.com/users/15208961/coderavi?tab=profile">
   <img align="left" alt="CoderAvi's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
