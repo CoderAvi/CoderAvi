@@ -26,7 +26,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
   <img align="left" alt="Coder Avi's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-
+<br/>
+<br/>
 
 
 - 🔭 I’m currently working on my own venture [Shopondoor](https://shopondoor.com/).
