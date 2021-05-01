@@ -24,6 +24,9 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA">
   <img align="left" alt="Coder Avi's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<a href="https://www.hackerrank.com/Avi_Avinash">
+  <img align="left" alt="Coder Avi's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 <br/>
 <br/>
 
