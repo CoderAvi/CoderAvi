@@ -26,6 +26,10 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 </a>
 <a href="https://www.hackerrank.com/Avi_Avinash">
   <img align="left" alt="Coder Avi's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<br/>
+<br/>
+
 
 - 🔭 I’m currently working on my own venture [Shopondoor](https://shopondoor.com/).
 - 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
