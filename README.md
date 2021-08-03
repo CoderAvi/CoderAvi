@@ -1,6 +1,6 @@
 ## Hola, I'm [Avinash Kumar!](http://www.coderavi.tech)👋
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
-![](https://raw.githubusercontent.com/tjanhvi/tjanhvi/master/Profile1.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> </p>
 <a href="https://twitter.com/Coder_Avi">
   <img align="left" alt="Coder_Avi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
