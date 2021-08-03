@@ -63,9 +63,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 
 
-![Janhvi's github activity graph]
-(https://activity-graph.herokuapp.com/graph?
- username=tjanhvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
+
 
   <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
