@@ -58,11 +58,11 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 <a href="https://github.com/CoderAvi">
  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CoderAvi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="98em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CoderAvi&layout=compact&langs_count=6&theme=algolia"/>
+<img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CoderAvi&layout=compact&langs_count=6&theme=algolia"/>
 <img height="100em%" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderAvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </a>
 
-![CoderAvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=CoderAvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
+![CoderAvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=CoderAvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border="180em")
 
 
 
