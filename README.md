@@ -60,7 +60,9 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoderAvi&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAvi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
 </a>
-![Janhvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=tjanhvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
+
+![Janhvi's github activity graph]
+(https://activity-graph.herokuapp.com/graph?username=tjanhvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
 
   <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
