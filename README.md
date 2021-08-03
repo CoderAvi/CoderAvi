@@ -1,5 +1,5 @@
 ## Hola, I'm [Avinash Kumar!](http://www.coderavi.tech)👋
-I am a computer science undergraduate student, a tech enthusiast trying to serve the world using my tech skills.
+I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> </p>
 <a href="https://twitter.com/Coder_Avi">
