@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/CoderAvi/CoderAvi/master/Profile1.gif)
+
 ## Hola, I'm [Avinash Kumar!](http://www.coderavi.tech)👋
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 ![](https://raw.githubusercontent.com/tjanhvi/tjanhvi/master/Profile1.gif)
