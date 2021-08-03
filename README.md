@@ -58,7 +58,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 <a href="https://github.com/CoderAvi">
  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CoderAvi&show_icons=true&hide_border=true" />
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAvi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
+<img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAvi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
 <img height="138em%" src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </a>
 
