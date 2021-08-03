@@ -57,9 +57,9 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
 
 <a href="https://github.com/CoderAvi">
- <img height="122em" src="https://github-readme-stats.vercel.app/api?username=CoderAvi&show_icons=true&hide_border=true" />
-<img height="122em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAvi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
-<img height="118em%" src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+ <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CoderAvi&show_icons=true&hide_border=true" />
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAvi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
+<img height="130em%" src="https://github-readme-streak-stats.herokuapp.com/?user=tjanhvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </a>
 
 ![CoderAvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=CoderAvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
