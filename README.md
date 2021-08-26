@@ -34,7 +34,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 - 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/15208961/coderavi?tab=profile).
 - 🤔 I’m looking for help with Shopondoor Deployment work.
-- 💬 .
+- 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Coder_Avi](https://twitter.com/Coder_Avi) , [Youtube - @coderavi](https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA)
 - 😄 Pronouns: He/His  
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.        
