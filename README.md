@@ -65,7 +65,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 
 
-  <b>⚙️ </b></summary>
+  <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b>macOS Big Sur 11.2.1</li>
 	    <li><b>Laptop: </b> Macbook Air 2019</li>
