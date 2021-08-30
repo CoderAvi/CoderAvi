@@ -56,7 +56,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
 
 <a href="https://github.com/CoderAvi">
-
+ <img height="117em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CoderAvi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="116em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CoderAvi&layout=compact&langs_count=6&theme=algolia"/>
 <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderAvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </a>
