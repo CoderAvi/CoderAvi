@@ -1,6 +1,6 @@
 ## Hola, I'm [Avinash Kumar!](http://www.coderavi.tech)👋
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
-<p align="left">
+<p>< align="left">
 <img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> 
 </p>
 
@@ -29,7 +29,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://www.hackerrank.com/Avi_Avinash">
   <img align="left" alt="Coder Avi's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
+<br/>
 <br/>
 
 
