@@ -75,7 +75,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
 
-<div align="center">
+<div align="">
 
 ### Show some ❤️ by starring some of the repositories!
 
