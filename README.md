@@ -80,8 +80,6 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 <div align="centre">
 
-### Show some ❤️ by starring some of the repositories!
-
 
 
 
