@@ -33,7 +33,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <br/>
 <br/>
 
-
+<a href="https://github.com/CoderAvi">
+<img height="115em"src="https://github-readme-stats.vercel.app/api?username=CoderAvi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 - 🔭 I’m currently working on my own venture [Shopondoor](https://shopondoor.com/).
 - 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
