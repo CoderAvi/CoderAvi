@@ -2,7 +2,6 @@
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> 
-</p>
 
 
 <a href="https://twitter.com/Coder_Avi">
