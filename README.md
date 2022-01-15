@@ -84,7 +84,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 
 
-
+</div>
 
 
   
