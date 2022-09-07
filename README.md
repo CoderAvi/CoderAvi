@@ -66,7 +66,6 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderAvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
 </a>
 
-![CoderAvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=CoderAvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
 
 <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
