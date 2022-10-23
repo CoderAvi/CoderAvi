@@ -86,6 +86,10 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 
 </div>
+[![@CoderAvi's Holopin board](https://holopin.io/api/user/board?user=CoderAvi)](https://holopin.io/@CoderAvi)
+
+
+<sub>© 2020</sub>
 
 
   
