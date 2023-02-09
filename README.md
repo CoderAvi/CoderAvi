@@ -70,8 +70,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 	
 ## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderAvi&theme=vue"/>
+<p align="fitscreen">
+  <img height= "237 em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderAvi&theme=vue"/>
 </p>
 
 <b>⚙️ Things I use to get stuff done</b></summary>
