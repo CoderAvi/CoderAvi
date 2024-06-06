@@ -3,7 +3,7 @@ I am a Software Developer 💻 who loves building exciting intelligent Apps or s
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> 
 </p>
-</a><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
+</a><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" height="400" />
 </a>
 
 
