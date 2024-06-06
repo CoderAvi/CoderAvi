@@ -2,7 +2,7 @@
 I am a Software Developer 💻 who loves building exciting intelligent Apps or softwares & exploring more about Artificial Intelligence!
 <p align="left">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=CoderAvi&style=for-the-badge">
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
@@ -11,7 +11,6 @@ I am a Software Developer 💻 who loves building exciting intelligent Apps or s
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 
 
-<img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> 
 </p>
 </a><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
 </a>
