@@ -5,11 +5,6 @@ I am a Software Developer 💻 who loves building exciting intelligent Apps or s
     <img src="https://komarev.com/ghpvc/?username=CoderAvi&style=for-the-badge">
 </a>
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=1849174)
-
 
 </p>
 </a><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
