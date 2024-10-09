@@ -51,7 +51,7 @@ I am a Software Developer 💻 who loves building exciting intelligent Apps or s
  
 [![Twitter: CoderAvi](https://img.shields.io/twitter/follow/Coder_Avi?style=social)](https://twitter.com/Coder_Avi)
 [![Linkedin: CoderAvi](https://img.shields.io/badge/-coderavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coder-avi/)](https://www.linkedin.com/in/coder-avi/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/coder_avi/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/thatsarcasticdev/) 
 [![GitHub CoderAvi](https://img.shields.io/github/followers/CoderAvi?label=follow&style=social)](https://github.com/CoderAvi)
 [![website](https://img.shields.io/badge/Portfolio-coderavi.tech-2648ff?style=flat-square&logo=google-chrome)](https://coderavi.github.io/my-protfolio/)
 
