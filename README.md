@@ -23,8 +23,8 @@ I am a Software Developer 💻 who loves building exciting intelligent Apps or s
 <a href="https://stackoverflow.com/users/15208961/coderavi?tab=profile">
   <img align="left" alt="CoderAvi's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://www.instagram.com/coder_avi/">
-  <img align="left" alt="Coder Avi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/thatsarcasticdev/">
+  <img align="left" alt="thatsarcasticdev's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/coderavinash/">
   <img align="left" alt="Coder Avi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
